@@ -1,24 +1,24 @@
 ul {
-    text-align: right;
-    width: 90%;
-    height: 20px;
-    margin-top: 15px;
+  text-align: right;
+  width: 90%;
+  height: 20px;
+  margin-top: 15px;
 }
 
 li {
-    display:inline;
-    color: white;
-    padding-left: 20px;
+  display:inline;
+  color: white;
+  padding-left: 20px;
 }
 
 body {
-    background-color: black;
-    font: normal 300 .8em'Open Sans', sans-serif;
-    overflow-x:hidden;
+  background-color: black;
+  font: normal 300 .8em'Open Sans', sans-serif;
+  overflow-x:hidden;
 }
 
-img {
-    display: block;
-    margin: auto;
-    margin-top: 40px;
+.main_img {
+  display: block;
+  margin: auto;
+  margin-top: 200px;
 }
