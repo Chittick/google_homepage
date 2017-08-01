@@ -1,1 +1,1 @@
-# google_homepage
+7/31- Begin Google homepage copy.
