@@ -1,5 +1,18 @@
+ul {
+    text-align: right;
+    width: 90%;
+    height: 20px;
+    margin-top: 15px;
+}
+
 li {
-    display: inline;
-    /*text-align: right;*/
-    color: red;
+    display:inline;
+    color: white;
+    padding-left: 20px;
+}
+
+body {
+    background-color: black;
+    font: normal 300 .8em'Open Sans', sans-serif;
+    overflow-x:hidden;
 }
